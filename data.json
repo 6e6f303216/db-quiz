@@ -189,15 +189,6 @@
     ]
   },
   {
-    "question": "Архитектурные особенности какой реляционной СУБД рассматриваются в учебнике?",
-    "correct": "СУБД Microsoft SQL Server",
-    "wrong": [
-      "СУБД Oracle Database",
-      "СУБД PostgreSQL",
-      "СУБД MySQL"
-    ]
-  },
-  {
     "question": "Какой используемый диалект SQL характерен для СУБД MS SQL Server?",
     "correct": "Диалект Transact-SQL (T-SQL)",
     "wrong": [
